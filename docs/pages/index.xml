@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Bitácora de Viaje</title>
-    <link>https://example.com/pages/</link>
-    <description>Recent content in Pages on Bitácora de Viaje</description>
+    <title>Pages on Bitácora de Viaje de Vicobettik</title>
+    <link>https://github.com/vicobettik/pages/</link>
+    <description>Recent content in Pages on Bitácora de Viaje de Vicobettik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/vicobettik/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <link>https://github.com/vicobettik/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
+      <guid>https://github.com/vicobettik/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+ Mi nombre es Victor Amaury, curioso que en casa todos me digan Victor pero fuera de casa todos me llaman Amaury
+ ** Tengo 32 años y me encanta nadar, leer, jugar videjuegos, ver series, ir al cine y escuchar música.
+Me gusta mucho siempre aprender cosas nuevas, siempre he querido aprender a dibujar pero soy malísimo :S Mi instagram es @vicobettik</description>
     </item>
     
   </channel>

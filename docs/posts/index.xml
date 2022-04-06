@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bitácora de Viaje</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Blog on Bitácora de Viaje</description>
+    <title>Blog on Bitácora de Viaje de Vicobettik</title>
+    <link>https://github.com/vicobettik/posts/</link>
+    <description>Recent content in Blog on Bitácora de Viaje de Vicobettik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/vicobettik/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <title>La cultura en el desarrollo de software.</title>
+      <link>https://github.com/vicobettik/posts/intro/</link>
+      <pubDate>Tue, 05 Apr 2022 12:30:21 -0600</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://github.com/vicobettik/posts/intro/</guid>
+      <description>Este es mi primer post usando el proyecto que el MC Carlo nos proporcionó.
+Considero muy valiosos los siguientes valores en un Desarrollador:
+Respeto  Hacia todas las personas y ocupaciones, ya que TODAS son indispensables  Humildad  Ya que cada persona tiene concocimientos y aptitudes diferentes y siempre hay que reconocer cuando no somos los mejores en algun área  Amor  Por el trabajo que se realiza ya que sin esto no tiene sentido hacer cualquier cosa  Ambición  Por ser mejor que el día anterior  Sabiduría  Para tomar las decisiones correctas y saber cuando decir &amp;ldquo;no sé&amp;rdquo;  Considero que por lo general los desarrolladores prefieren trabajar solos, lo cual es un gran error por que al darte cuenta de la magnitud de los proyectos es imposible que una sola persona realice todo el trabajo, por lo que es importantisimo que aprendamos a trabajar en equipos, sin importar si las personas nos caen bien o mal.</description>
+    </item>
+    
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://github.com/vicobettik/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/vicobettik/posts/post_1/</guid>
+      <description>A continuación cuento un poco sobre como ha sido la ruta de aprendizaje en LaunchX:
+Antes que nada, creo que es importante mencionar como me enteré de este programa, fue mediante un tik tok de Brujeriatech.
+La mision con MC Fer fue un repaso de lo que había aprendido en Python en un curso que tomé por mi cuenta, me ayudó mucho, ya que fue un gran repaso y también de Github.</description>
     </item>
     
   </channel>
